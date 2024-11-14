@@ -7,9 +7,24 @@ I am **Sai Rahul Prasad Nagumantri**, a passionate and experienced Full Stack De
 - 🌍 **Location:** Toronto, Ontario, Canada  
 - 🎓 **Education:**  
   - **Post-Graduation Certification** in Artificial Intelligence Design and Implementation - Durham College  
-  - **Bachelor of Technology** in Computer Science and Engineering - JNTU Kakinada  
+  - **Bachelor of Technology** in Computer Science and Engineering - JNTU Kakinada
+ 
+## 📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulprasadns&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulprasadns&layout=compact&theme=radical)  
+
+---
+
+## 🏆 Achievements:
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rahulprasadns&theme=darkhub)  
+
+---
 
 ## 🛠️ Technical Skills:
+![React](https://img.shields.io/badge/React-Expert-blue)
+![Python](https://img.shields.io/badge/Python-Advanced-green)
+![AWS](https://img.shields.io/badge/AWS-Certified-orange)
+
 - **Languages:** JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, PHP, SQL, Bash, Rust  
 - **Frameworks:** React.js, Angular, Vue.js, Django, Flask, Node.js, Next.js, Redux, Tailwind CSS, Bootstrap, Material-UI  
 - **Tools:** AWS (S3, EC2, Lambda, Cognito), Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab CI/CD  
