@@ -1,78 +1,74 @@
-# Hi there 👋 Welcome to My GitHub Profile!
+# Rahul Prasad
+### Full-stack engineer & technical lead · Applied AI · Secure developer tools
 
-## 👨‍💻 About Me:
-I am **Sai Rahul Prasad Nagumantri**, a passionate and experienced Full Stack Developer with over 7 years of expertise in creating scalable, user-centric solutions across diverse domains. My journey spans multiple roles in full-stack development, AI engineering, and cybersecurity, with a strong focus on leveraging modern technologies to solve real-world challenges.
+I’m **Sai Rahul Prasad Nagumantri**, based in Ontario, Canada. I build web applications, backend services and developer tools, combining hands-on engineering with team leadership.
 
-- 🔭 **Current Role:** Tech Lead at HCL Tech  
-- 🌍 **Location:** Toronto, Ontario, Canada  
-- 🎓 **Education:**  
-  - **Post-Graduation Certification** in Artificial Intelligence Design and Implementation - Durham College  
-  - **Bachelor of Technology** in Computer Science and Engineering - JNTU Kakinada
- 
-## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulprasadns&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulprasadns&layout=compact&theme=radical)  
+At **IBM Canada Software Lab**, I work as a Full Stack Developer with technical leadership and direct people-management responsibilities. My work brings vulnerability scanning and AI-assisted code remediation into developers’ workflows through a VS Code extension and cloud-native services.
 
----
+[Portfolio](https://myportfolio-3eo.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/rahulprasadns/) · [Technical writing](https://rahulprasadns.medium.com) · [Email](mailto:rahulnagumantri@live.com)
 
-## 🏆 Achievements:
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rahulprasadns&theme=darkhub)  
+## What I bring to a team
 
----
+- **Full-stack delivery:** React and TypeScript interfaces, Python services, API design and data-driven workflows.
+- **Developer tooling and security:** scanner integrations, background job orchestration, real-time updates and LLM-assisted remediation.
+- **Architecture and delivery:** microservices, event-driven systems, containerized deployments and CI/CD.
+- **People leadership:** managing and mentoring direct reports, hiring, performance reviews, goal setting, work allocation and technical reviews.
 
-## 🛠️ Technical Skills:
-![React](https://img.shields.io/badge/React-Expert-blue)
-![Python](https://img.shields.io/badge/Python-Advanced-green)
-![AWS](https://img.shields.io/badge/AWS-Certified-orange)
+Across my work at IBM and HCL, I have managed teams of **5–10 people** and participated in interviewing and hiring **seven team members**.
 
-- **Languages:** JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, PHP, SQL, Bash, Rust  
-- **Frameworks:** React.js, Angular, Vue.js, Django, Flask, Node.js, Next.js, Redux, Tailwind CSS, Bootstrap, Material-UI  
-- **Tools:** AWS (S3, EC2, Lambda, Cognito), Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab CI/CD  
-- **Specializations:**  
-  - Machine Learning (TensorFlow, PyTorch, Scikit-learn, Hugging Face)  
-  - System Design (Microservices, Serverless Architecture, Event-Driven Architecture)  
-  - IoT Solutions (Raspberry Pi, Arduino)  
-  - UI/UX Design, Cybersecurity, Data Visualizations  
+## Selected work
 
-## 🌟 Achievements:
-- Delivered **10+ AI-driven projects** enhancing operational efficiency and data-driven decision-making.  
-- Recognized with **3 Customer Appreciations** at HCL Tech and **5 Spot Awards** at Kony (Temenos).  
-- Patented innovative digital solutions under the name "CleBird."  
+### AI-assisted security tooling · IBM
+Integrated security scanning and LLM-driven quick fixes into a VS Code extension. The supporting services use **FastAPI, Redis/RQ and WebSockets** for parallel processing and real-time feedback, with containerized deployment on IBM Cloud.
 
-## 💼 Professional Experience:
-### **HCL Tech – Tech Lead**  
-- Spearheaded full-stack projects using React.js and Django, resolving 400+ pull requests and boosting system scalability by 30%.  
-- Automated workflows, reducing manual workloads by 40%, and implemented serverless computing with AWS Lambda.  
+[Architecture case study](https://myportfolio-3eo.pages.dev/projects/shift-left-security-extension/)
 
-### **Durham College AI Hub – Research Associate**  
-- Developed AI-powered applications, improving user engagement by 50% and enhancing data security through IoT devices.  
+### Network infrastructure dashboard · HCL
+Led full-stack development with **React and Django**, including service boundaries, API contracts, dashboards and workflow automation. Combined technical delivery with mentoring and direct team management.
 
-### **WeSecureApp – Senior Software Engineer**  
-- Built intelligent suggestion bots, integrated GraphQL APIs, and enhanced user satisfaction with a 25% boost in engagement metrics.  
+[Delivery and architecture case study](https://myportfolio-3eo.pages.dev/projects/network-infrastructure-dashboard/)
 
-### **Kony Temenos – Software Engineer**  
-- Developed cross-platform applications, reducing bug resolution time by 80% and optimizing build performance by 70%.  
+### Cross-platform banking applications · Kony / Temenos
+Developed reusable components and applications across mobile, web and desktop platforms. Built internal reporting and diagnostic tools and helped modernize build workflows.
 
-## 🌱 Currently Learning:
-- Advanced Machine Learning Models  
-- Cloud-Native Development with AWS and Kubernetes  
-- DevOps Practices for Continuous Integration and Delivery  
+[Developer-productivity case study](https://myportfolio-3eo.pages.dev/projects/cross-platform-banking-suite/)
 
-## 📫 How to Reach Me:
-- **Email:** rahulnagumantri@live.com  
-- **LinkedIn:** [linkedin.com/in/rahulprasadns](https://in.linkedin.com/in/rahulprasadns)  
-- **GitHub:** [github.com/rahulprasadns](https://github.com/rahulprasadns)  
-- **Blog:** [rahulprasadns.medium.com](https://rahulprasadns.medium.com)  
-- **YouTube:** [CleBird](https://www.youtube.com/channel/UCTWLY80MF5oer05GmUWUB5Q)  
+## Public projects to explore
 
-## 🤝 Collaboration:
-I am always open to collaborating on innovative projects that create a meaningful impact. Whether it's about AI, full-stack development, or any tech-related idea, let's connect and make it happen!  
+These repositories show application-building and applied-ML work. They are separate from the proprietary enterprise systems described above.
 
-## ⚡ Fun Facts:
-- I'm a tech enthusiast and gadget aficionado with a knack for blogging and creating tutorials.  
-- UI/UX design and photography are my creative outlets.  
-- I thrive on solving complex problems and learning something new every day!  
+| Project | What to explore | Main technologies |
+| --- | --- | --- |
+| [Insportify](https://github.com/rahulprasadns/Insportify) | Event and venue discovery, availability, profiles and payment workflows | Python, Django |
+| [Malicious URL Finder](https://github.com/rahulprasadns/Malicious-URL-Finder) | URL feature extraction and model-backed prediction through a web API | Python, Flask, scikit-learn |
+| [Dog Breed Classifier](https://github.com/rahulprasadns/dog-breed) | Image preprocessing and model inference behind an upload interface | Python, Flask, TensorFlow/Keras |
+| [Capstone application](https://github.com/rahulprasadns/Capstone2) | Frontend/backend integration and conversational application workflows | React, Material UI, Flask, Socket.IO |
 
----
+## Technical toolkit
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me for any exciting opportunities or collaborations.
+| Area | Technologies |
+| --- | --- |
+| Frontend | TypeScript, JavaScript, React, Redux, Vue, HTML, CSS, Tailwind CSS |
+| Backend and APIs | Python, FastAPI, Django, Flask, Node.js, REST, GraphQL |
+| Data and asynchronous work | PostgreSQL, MySQL, MongoDB, Redis, RQ, WebSockets |
+| Cloud and delivery | IBM Cloud, AWS, Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI/CD, Jenkins |
+| Applied AI and security | Llama, Granite, scikit-learn, TensorFlow, PyTorch, Semgrep, Mend |
+| Quality | Jest, Cypress, Pytest, code reviews and automated testing |
+
+## Background
+
+- **IBM Canada Software Lab:** Full Stack Developer, with technical leadership and people-management responsibilities.
+- **HCL Tech:** Technical Lead.
+- **Durham College AI Hub:** Research Associate, delivering AI-enabled applications and client research projects.
+- **WeSecureApp:** Senior Software Engineer.
+- **Kony / Temenos:** Software Engineer.
+
+**Education:** Postgraduate Certificate in Artificial Intelligence Design and Implementation, Durham College; B.Tech in Computer Science and Engineering, JNTU Kakinada.
+
+**Recognition:** IBM Outstanding Technical Achievement Award; customer appreciations at HCL; Spot Awards and a Technological Excellence Award at Kony / Temenos.
+
+## Beyond the code
+
+I enjoy photography, visual design, gadgets and sharing what I learn through tutorials and technical writing. I’m interested in practical AI, reliable software and tools that make engineering teams more effective.
+
+[Explore my portfolio](https://myportfolio-3eo.pages.dev/) · [Connect on LinkedIn](https://www.linkedin.com/in/rahulprasadns/)
