@@ -58,11 +58,13 @@ These prototypes are separate from the enterprise work above.
 
 **Public work** · 149 indexed commits, 21 pull requests (9 merged), and 1 issue across 20 public repositories.
 
-**Private work** · 277 indexed commits. Only the total is shown. Repository names and commit details remain private.
+**Private work** · 277 indexed commits across private repositories. Repository names and individual activity remain private.
+
+**[CleBird](https://github.com/Clebird) organization work** · **233** of those private commits, plus **13** authored pull requests merged and **2** issues opened. These are aggregate counts only.
 
 [Explore the interactive breakdown →](https://myportfolio-3eo.pages.dev/projects#contributions)
 
-*Snapshot checked November 25, 2026. The calendars show indexed public commits, pull requests, and issues. Private commits appear only as a total. These are separate from GitHub’s native contribution graph.*
+*Snapshot checked November 25, 2026. The calendars show indexed public commits, pull requests, and issues. Private activity is shown as aggregate counts and is not plotted in either calendar. These are separate from GitHub’s native contribution graph.*
 
 ## 03 · Toolkit
 
