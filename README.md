@@ -1,111 +1,49 @@
-<p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Rahul Prasad — Full-stack engineer and technical lead. Applied AI, secure developer tools and cloud-native systems. IBM Canada Software Lab, Ontario." />
-</p>
+# Rahul Prasad
 
-<p align="center">
-  <a href="https://myportfolio-3eo.pages.dev/"><strong>Portfolio ↗</strong></a> &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/rahulprasadns/"><strong>LinkedIn ↗</strong></a> &nbsp; • &nbsp;
-  <a href="https://rahulprasadns.medium.com"><strong>Writing ↗</strong></a> &nbsp; • &nbsp;
-  <a href="mailto:rahulnagumantri@live.com"><strong>Let's connect ↗</strong></a>
-</p>
+**Full-stack engineer and technical lead · Developer tooling, applied AI, and cloud-native systems**
 
-<p align="center">I turn complex workflows into useful software — and help the people building it grow.</p>
+At IBM Canada Software Lab, I build tools that bring security feedback into developers’ editors. I work across the UI, APIs, and background jobs, and I manage and mentor engineers. Across IBM and HCL, I’ve managed teams of **5–10** and helped interview and hire **seven** team members.
 
-<table>
-<tr>
-<td width="33%" align="center"><h3>Build</h3>React & TypeScript interfaces<br/>Python services & APIs</td>
-<td width="33%" align="center"><h3>Connect</h3>AI-assisted developer tools<br/>Cloud-native delivery</td>
-<td width="33%" align="center"><h3>Lead</h3>Direct-report management<br/>Mentoring & technical reviews</td>
-</tr>
-</table>
+[Portfolio](https://myportfolio-3eo.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/rahulprasadns/) · [Writing](https://rahulprasadns.medium.com) · [Email](mailto:rahulnagumantri@live.com)
 
-At **IBM Canada Software Lab**, I work as a **Full Stack Developer**, combining technical leadership and direct people management with hands-on engineering. Across IBM and HCL, I have managed **5–10-person teams** and participated in interviewing and hiring **seven team members**.
+## Selected engineering work
 
-## Engineering, at a glance
+### IBM · Security feedback inside VS Code
 
-<p><img src="assets/toolkit.svg" width="100%" alt="Toolkit: React, TypeScript, Vue, Redux, Tailwind; Python, FastAPI, Django, Node.js, GraphQL; Redis, WebSockets, Docker, Kubernetes, AWS and IBM Cloud; LLM integration, scikit-learn, security scanning and automated tests. Leadership: mentoring, hiring, goals, reviews and work allocation." /></p>
+A VS Code extension brings scanner findings, AI-assisted fix suggestions, and real-time feedback into the editor. FastAPI handles requests, Redis and RQ run scans in the background, and WebSockets return updates for developers to review.
 
-<details>
-<summary><strong>More tools I work with</strong></summary>
-<br/>
-PostgreSQL · MySQL · MongoDB · Terraform · GitHub Actions · GitLab CI/CD · Jenkins · Llama · Granite · TensorFlow · PyTorch · HTML · CSS
-</details>
+<a href="https://myportfolio-3eo.pages.dev/projects/shift-left-security-extension/"><img src="assets/architecture.svg" width="100%" alt="Architecture diagram showing the VS Code extension, FastAPI, Redis and RQ jobs, security scanners, AI assistance, and feedback for human review." /></a>
 
-## From architecture to a working product
+[Read the IBM case study →](https://myportfolio-3eo.pages.dev/projects/shift-left-security-extension/)
 
-<a href="https://myportfolio-3eo.pages.dev/projects/shift-left-security-extension/"><img src="assets/architecture.svg" width="100%" alt="Simplified security-tooling flow: VS Code extension → FastAPI and Redis/RQ jobs → scanners and LLM assistance → real-time feedback and human review." /></a>
+### HCL · Network infrastructure dashboards
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>IBM · Secure developer tools</h3>
-<p>Security-scanner integration, LLM-assisted code fixes and real-time feedback inside the developer workflow.</p>
-<p><code>FastAPI</code> <code>Redis / RQ</code> <code>WebSockets</code></p>
-<a href="https://myportfolio-3eo.pages.dev/projects/shift-left-security-extension/"><strong>Explore the architecture →</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>HCL · Network infrastructure</h3>
-<p>Full-stack dashboards, service boundaries and API contracts, delivered with hands-on team leadership.</p>
-<p><code>React</code> <code>Django</code> <code>Microservices</code></p>
-<a href="https://myportfolio-3eo.pages.dev/projects/network-infrastructure-dashboard/"><strong>Explore the delivery story →</strong></a>
-</td>
-</tr>
-</table>
+Built full-stack dashboards with React and Django and helped define service boundaries and API contracts while leading delivery. [Read the HCL case study →](https://myportfolio-3eo.pages.dev/projects/network-infrastructure-dashboard/)
 
-<p><strong>Earlier at Kony / Temenos:</strong> cross-platform banking applications, reusable components and developer-productivity tooling. <a href="https://myportfolio-3eo.pages.dev/projects/cross-platform-banking-suite/">Read the case study →</a></p>
+### Kony / Temenos · Cross-platform banking
 
-## Open the code
+Worked on cross-platform banking apps, reusable components, and tools that made development easier. [Read the banking case study →](https://myportfolio-3eo.pages.dev/projects/cross-platform-banking-suite/)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>01 / Insportify</h3>
-<p>Academic prototype for events, venues and availability. Not production-ready.</p>
-<p><code>Python</code> <code>Django</code></p>
-<a href="https://github.com/rahulprasadns/Insportify"><strong>Explore repository →</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>02 / Malicious URL Finder</h3>
-<p>URL feature extraction and model-backed API predictions.</p>
-<p><code>Python</code> <code>Flask</code> <code>scikit-learn</code></p>
-<a href="https://github.com/rahulprasadns/Malicious-URL-Finder"><strong>Explore repository →</strong></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>03 / Dog Breed Classifier</h3>
-<p>Image preprocessing and inference behind an upload interface.</p>
-<p><code>Flask</code> <code>TensorFlow / Keras</code></p>
-<a href="https://github.com/rahulprasadns/dog-breed"><strong>Explore repository →</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>04 / Capstone Application</h3>
-<p>Frontend/backend integration and conversational workflows.</p>
-<p><code>React</code> <code>Material UI</code> <code>Flask</code></p>
-<a href="https://github.com/rahulprasadns/Capstone2"><strong>Explore repository →</strong></a>
-</td>
-</tr>
-</table>
+## Public code
 
-<sub>Public project examples, separate from the proprietary enterprise systems above. Repository content is not a claim of sole authorship or production scale.</sub>
+These prototypes are separate from the enterprise work above.
 
-## Activity, not vanity metrics
+- **[Malicious URL Finder](https://github.com/rahulprasadns/Malicious-URL-Finder)** — Extracts features from URLs and serves model predictions through a Flask API.
+- **[Insportify](https://github.com/rahulprasadns/Insportify)** — Academic Django prototype for events, venues, and availability.
+- **[Dog Breed Classifier](https://github.com/rahulprasadns/dog-breed)** — Image preprocessing and TensorFlow/Keras inference behind a Flask upload interface.
+- **[Capstone Application](https://github.com/rahulprasadns/Capstone2)** — Conversational workflows with a React and Material UI frontend and a Flask backend.
 
-<a href="https://github.com/rahulprasadns?tab=overview"><img src="assets/activity.svg" width="100%" alt="GitHub contribution snapshot captured 23 October 2026:114 contributions over the displayed year;91 percent commits,9 percent pull requests,0 percent issues and code reviews. Not a live widget or a skill score." /></a>
+## Toolkit
 
-<sub>A dated snapshot of GitHub's publicly displayed graph, including any anonymized private activity GitHub shows. [Current activity](https://github.com/rahulprasadns?tab=overview) · [Snapshot data](assets/activity-data.json). Enterprise work is not fully represented here.</sub>
+**Interfaces** · React, TypeScript, Vue  
+**Services** · Python, FastAPI, Django, Node.js, Redis, WebSockets  
+**Delivery** · Docker, Kubernetes, Terraform, GitHub Actions, AWS, IBM Cloud  
+**Applied AI** · LLM integration, scikit-learn, TensorFlow, PyTorch
 
 <details>
-<summary><strong>Background, recognition & beyond the code</strong></summary>
-<br/>
+<summary>Background and recognition</summary>
 
-**Journey:** Kony / Temenos → WeSecureApp → Durham College AI Hub → HCL Tech → IBM Canada Software Lab.
+- **Recognition** · IBM Outstanding Technical Achievement Award, customer appreciations at HCL, and Spot Awards and a Technological Excellence Award at Kony / Temenos.
+- **Education** · Postgraduate Certificate in Artificial Intelligence Design and Implementation, Durham College. B.Tech in Computer Science and Engineering, JNTU Kakinada.
 
-**Education:** Postgraduate Certificate in Artificial Intelligence Design and Implementation, Durham College; B.Tech in Computer Science and Engineering, JNTU Kakinada.
-
-**Recognition:** IBM Outstanding Technical Achievement Award; customer appreciations at HCL; Spot Awards and a Technological Excellence Award at Kony / Temenos.
-
-**Beyond engineering:** photography, visual design, gadgets, tutorials and technical writing.
 </details>
-
-<p align="center"><strong>Practical AI. Thoughtful systems. Stronger teams.</strong><br/><a href="https://myportfolio-3eo.pages.dev/">See the portfolio →</a></p>
