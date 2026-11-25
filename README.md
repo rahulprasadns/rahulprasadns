@@ -38,6 +38,17 @@ These prototypes are separate from the enterprise work above.
 
 [Browse the project archive →](https://myportfolio-3eo.pages.dev/projects#github) · [GitHub contribution activity →](https://github.com/rahulprasadns?tab=overview#contribution-activity)
 
+
+### Contribution snapshot
+
+**Public work** · 149 indexed commits, 21 pull requests (9 merged), and 1 issue across 20 public repositories.
+
+**Private work** · 277 indexed commits. Only the total is shown. Repository names and commit details remain private.
+
+[Explore the interactive breakdown →](https://myportfolio-3eo.pages.dev/projects#contributions)
+
+*Snapshot checked November 25, 2026. These counts reflect indexed activity visible to the connected GitHub account, not GitHub’s profile contribution graph.*
+
 ## 03 · Toolkit
 
 **Interfaces**  
