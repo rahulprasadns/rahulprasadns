@@ -41,13 +41,28 @@ These prototypes are separate from the enterprise work above.
 
 ### Contribution snapshot
 
+<picture>
+  <source media="(max-width: 620px)" srcset="assets/contribution-calendar-recent-mobile.svg">
+  <img src="assets/contribution-calendar-recent.svg" width="100%" alt="GitHub-style calendar showing 13 indexed public contributions over the 12 months through November 25, 2026.">
+</picture>
+
+<details>
+<summary>View the 2022 contribution calendar</summary>
+
+<picture>
+  <source media="(max-width: 620px)" srcset="assets/contribution-calendar-2022-mobile.svg">
+  <img src="assets/contribution-calendar-2022.svg" width="100%" alt="Calendar showing 139 indexed public contributions in 2022, with most activity between April and September.">
+</picture>
+
+</details>
+
 **Public work** · 149 indexed commits, 21 pull requests (9 merged), and 1 issue across 20 public repositories.
 
 **Private work** · 277 indexed commits. Only the total is shown. Repository names and commit details remain private.
 
 [Explore the interactive breakdown →](https://myportfolio-3eo.pages.dev/projects#contributions)
 
-*Snapshot checked November 25, 2026. These counts reflect indexed activity visible to the connected GitHub account, not GitHub’s profile contribution graph.*
+*Snapshot checked November 25, 2026. The calendars show indexed public commits, pull requests, and issues. Private commits appear only as a total. These are separate from GitHub’s native contribution graph.*
 
 ## 03 · Toolkit
 

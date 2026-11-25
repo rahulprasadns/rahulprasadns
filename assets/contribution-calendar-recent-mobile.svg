@@ -1,0 +1,408 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="415" height="314" viewBox="0 0 415 314" role="img" aria-labelledby="title desc">
+<title id="title">13 indexed public contributions · Last 12 months</title>
+<desc id="desc">GitHub-style calendar covering 2025-11-26 through 2026-11-25. Each day shows the number of indexed public commits, pull requests and issues. Private activity is excluded.</desc>
+<style>
+    .surface{fill:#fff;stroke:#d1d9e0}
+    .copy{fill:#1f2328;font:13px system-ui,sans-serif}
+    .heading{font-weight:650;font-size:15px}
+    .meta{fill:#59636e;font-size:11px}
+    .n0{fill:#ebedf0}.n1{fill:#9be9a8}.n2{fill:#40c463}.n3{fill:#30a14e}.n4{fill:#216e39}
+    @media(prefers-color-scheme:dark){
+      .surface{fill:#0d1117;stroke:#30363d}
+      .copy{fill:#f0f6fc}.meta{fill:#9198a1}
+      .n0{fill:#151b23}.n1{fill:#033a16}.n2{fill:#196c2e}.n3{fill:#2ea043}.n4{fill:#56d364}
+    }</style>
+<rect class="surface" x=".5" y=".5" width="414" height="313" rx="10"/>
+<text class="copy heading" x="16" y="25">13 indexed public contributions</text>
+<text class="copy meta" x="16" y="42">Last 12 months</text>
+<rect class="n0" x="47" y="112" width="10" height="10" rx="2"><title>2025-11-26 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="47" y="125" width="10" height="10" rx="2"><title>2025-11-27 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="47" y="138" width="10" height="10" rx="2"><title>2025-11-28 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="47" y="151" width="10" height="10" rx="2"><title>2025-11-29 · 0 indexed public contributions</title></rect>
+<text class="copy meta" x="60" y="66">Dec</text>
+<rect class="n0" x="60" y="73" width="10" height="10" rx="2"><title>2025-11-30 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="86" width="10" height="10" rx="2"><title>2025-12-01 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="99" width="10" height="10" rx="2"><title>2025-12-02 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="112" width="10" height="10" rx="2"><title>2025-12-03 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="125" width="10" height="10" rx="2"><title>2025-12-04 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="138" width="10" height="10" rx="2"><title>2025-12-05 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="151" width="10" height="10" rx="2"><title>2025-12-06 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="73" width="10" height="10" rx="2"><title>2025-12-07 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="86" width="10" height="10" rx="2"><title>2025-12-08 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="99" width="10" height="10" rx="2"><title>2025-12-09 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="112" width="10" height="10" rx="2"><title>2025-12-10 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="125" width="10" height="10" rx="2"><title>2025-12-11 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="138" width="10" height="10" rx="2"><title>2025-12-12 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="151" width="10" height="10" rx="2"><title>2025-12-13 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="73" width="10" height="10" rx="2"><title>2025-12-14 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="86" width="10" height="10" rx="2"><title>2025-12-15 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="99" width="10" height="10" rx="2"><title>2025-12-16 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="112" width="10" height="10" rx="2"><title>2025-12-17 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="125" width="10" height="10" rx="2"><title>2025-12-18 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="138" width="10" height="10" rx="2"><title>2025-12-19 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="151" width="10" height="10" rx="2"><title>2025-12-20 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="73" width="10" height="10" rx="2"><title>2025-12-21 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="86" width="10" height="10" rx="2"><title>2025-12-22 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="99" width="10" height="10" rx="2"><title>2025-12-23 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="112" width="10" height="10" rx="2"><title>2025-12-24 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="125" width="10" height="10" rx="2"><title>2025-12-25 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="138" width="10" height="10" rx="2"><title>2025-12-26 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="151" width="10" height="10" rx="2"><title>2025-12-27 · 0 indexed public contributions</title></rect>
+<text class="copy meta" x="112" y="66">Jan</text>
+<rect class="n0" x="112" y="73" width="10" height="10" rx="2"><title>2025-12-28 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="86" width="10" height="10" rx="2"><title>2025-12-29 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="99" width="10" height="10" rx="2"><title>2025-12-30 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="112" width="10" height="10" rx="2"><title>2025-12-31 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="125" width="10" height="10" rx="2"><title>2026-01-01 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="138" width="10" height="10" rx="2"><title>2026-01-02 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="151" width="10" height="10" rx="2"><title>2026-01-03 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="73" width="10" height="10" rx="2"><title>2026-01-04 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="86" width="10" height="10" rx="2"><title>2026-01-05 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="99" width="10" height="10" rx="2"><title>2026-01-06 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="112" width="10" height="10" rx="2"><title>2026-01-07 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="125" width="10" height="10" rx="2"><title>2026-01-08 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="138" width="10" height="10" rx="2"><title>2026-01-09 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="151" width="10" height="10" rx="2"><title>2026-01-10 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="73" width="10" height="10" rx="2"><title>2026-01-11 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="86" width="10" height="10" rx="2"><title>2026-01-12 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="99" width="10" height="10" rx="2"><title>2026-01-13 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="112" width="10" height="10" rx="2"><title>2026-01-14 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="125" width="10" height="10" rx="2"><title>2026-01-15 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="138" width="10" height="10" rx="2"><title>2026-01-16 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="151" width="10" height="10" rx="2"><title>2026-01-17 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="73" width="10" height="10" rx="2"><title>2026-01-18 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="86" width="10" height="10" rx="2"><title>2026-01-19 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="99" width="10" height="10" rx="2"><title>2026-01-20 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="112" width="10" height="10" rx="2"><title>2026-01-21 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="125" width="10" height="10" rx="2"><title>2026-01-22 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="138" width="10" height="10" rx="2"><title>2026-01-23 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="151" width="10" height="10" rx="2"><title>2026-01-24 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="73" width="10" height="10" rx="2"><title>2026-01-25 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="86" width="10" height="10" rx="2"><title>2026-01-26 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="99" width="10" height="10" rx="2"><title>2026-01-27 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="112" width="10" height="10" rx="2"><title>2026-01-28 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="125" width="10" height="10" rx="2"><title>2026-01-29 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="138" width="10" height="10" rx="2"><title>2026-01-30 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="151" width="10" height="10" rx="2"><title>2026-01-31 · 0 indexed public contributions</title></rect>
+<text class="copy meta" x="177" y="66">Feb</text>
+<rect class="n0" x="177" y="73" width="10" height="10" rx="2"><title>2026-02-01 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="86" width="10" height="10" rx="2"><title>2026-02-02 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="99" width="10" height="10" rx="2"><title>2026-02-03 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="112" width="10" height="10" rx="2"><title>2026-02-04 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="125" width="10" height="10" rx="2"><title>2026-02-05 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="138" width="10" height="10" rx="2"><title>2026-02-06 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="151" width="10" height="10" rx="2"><title>2026-02-07 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="73" width="10" height="10" rx="2"><title>2026-02-08 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="86" width="10" height="10" rx="2"><title>2026-02-09 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="99" width="10" height="10" rx="2"><title>2026-02-10 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="112" width="10" height="10" rx="2"><title>2026-02-11 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="125" width="10" height="10" rx="2"><title>2026-02-12 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="138" width="10" height="10" rx="2"><title>2026-02-13 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="151" width="10" height="10" rx="2"><title>2026-02-14 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="73" width="10" height="10" rx="2"><title>2026-02-15 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="86" width="10" height="10" rx="2"><title>2026-02-16 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="99" width="10" height="10" rx="2"><title>2026-02-17 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="112" width="10" height="10" rx="2"><title>2026-02-18 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="125" width="10" height="10" rx="2"><title>2026-02-19 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="138" width="10" height="10" rx="2"><title>2026-02-20 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="151" width="10" height="10" rx="2"><title>2026-02-21 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="73" width="10" height="10" rx="2"><title>2026-02-22 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="86" width="10" height="10" rx="2"><title>2026-02-23 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="99" width="10" height="10" rx="2"><title>2026-02-24 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="112" width="10" height="10" rx="2"><title>2026-02-25 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="125" width="10" height="10" rx="2"><title>2026-02-26 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="138" width="10" height="10" rx="2"><title>2026-02-27 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="151" width="10" height="10" rx="2"><title>2026-02-28 · 0 indexed public contributions</title></rect>
+<text class="copy meta" x="229" y="66">Mar</text>
+<rect class="n0" x="229" y="73" width="10" height="10" rx="2"><title>2026-03-01 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="86" width="10" height="10" rx="2"><title>2026-03-02 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="99" width="10" height="10" rx="2"><title>2026-03-03 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="112" width="10" height="10" rx="2"><title>2026-03-04 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="125" width="10" height="10" rx="2"><title>2026-03-05 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="138" width="10" height="10" rx="2"><title>2026-03-06 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="151" width="10" height="10" rx="2"><title>2026-03-07 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="73" width="10" height="10" rx="2"><title>2026-03-08 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="86" width="10" height="10" rx="2"><title>2026-03-09 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="99" width="10" height="10" rx="2"><title>2026-03-10 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="112" width="10" height="10" rx="2"><title>2026-03-11 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="125" width="10" height="10" rx="2"><title>2026-03-12 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="138" width="10" height="10" rx="2"><title>2026-03-13 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="151" width="10" height="10" rx="2"><title>2026-03-14 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="73" width="10" height="10" rx="2"><title>2026-03-15 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="86" width="10" height="10" rx="2"><title>2026-03-16 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="99" width="10" height="10" rx="2"><title>2026-03-17 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="112" width="10" height="10" rx="2"><title>2026-03-18 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="125" width="10" height="10" rx="2"><title>2026-03-19 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="138" width="10" height="10" rx="2"><title>2026-03-20 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="151" width="10" height="10" rx="2"><title>2026-03-21 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="73" width="10" height="10" rx="2"><title>2026-03-22 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="86" width="10" height="10" rx="2"><title>2026-03-23 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="99" width="10" height="10" rx="2"><title>2026-03-24 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="112" width="10" height="10" rx="2"><title>2026-03-25 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="125" width="10" height="10" rx="2"><title>2026-03-26 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="138" width="10" height="10" rx="2"><title>2026-03-27 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="151" width="10" height="10" rx="2"><title>2026-03-28 · 0 indexed public contributions</title></rect>
+<text class="copy meta" x="281" y="66">Apr</text>
+<rect class="n0" x="281" y="73" width="10" height="10" rx="2"><title>2026-03-29 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="86" width="10" height="10" rx="2"><title>2026-03-30 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="99" width="10" height="10" rx="2"><title>2026-03-31 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="112" width="10" height="10" rx="2"><title>2026-04-01 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="125" width="10" height="10" rx="2"><title>2026-04-02 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="138" width="10" height="10" rx="2"><title>2026-04-03 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="151" width="10" height="10" rx="2"><title>2026-04-04 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="73" width="10" height="10" rx="2"><title>2026-04-05 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="86" width="10" height="10" rx="2"><title>2026-04-06 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="99" width="10" height="10" rx="2"><title>2026-04-07 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="112" width="10" height="10" rx="2"><title>2026-04-08 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="125" width="10" height="10" rx="2"><title>2026-04-09 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="138" width="10" height="10" rx="2"><title>2026-04-10 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="151" width="10" height="10" rx="2"><title>2026-04-11 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="73" width="10" height="10" rx="2"><title>2026-04-12 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="86" width="10" height="10" rx="2"><title>2026-04-13 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="99" width="10" height="10" rx="2"><title>2026-04-14 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="112" width="10" height="10" rx="2"><title>2026-04-15 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="125" width="10" height="10" rx="2"><title>2026-04-16 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="138" width="10" height="10" rx="2"><title>2026-04-17 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="151" width="10" height="10" rx="2"><title>2026-04-18 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="73" width="10" height="10" rx="2"><title>2026-04-19 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="86" width="10" height="10" rx="2"><title>2026-04-20 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="99" width="10" height="10" rx="2"><title>2026-04-21 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="112" width="10" height="10" rx="2"><title>2026-04-22 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="125" width="10" height="10" rx="2"><title>2026-04-23 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="138" width="10" height="10" rx="2"><title>2026-04-24 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="151" width="10" height="10" rx="2"><title>2026-04-25 · 0 indexed public contributions</title></rect>
+<text class="copy meta" x="333" y="66">May</text>
+<rect class="n0" x="333" y="73" width="10" height="10" rx="2"><title>2026-04-26 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="333" y="86" width="10" height="10" rx="2"><title>2026-04-27 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="333" y="99" width="10" height="10" rx="2"><title>2026-04-28 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="333" y="112" width="10" height="10" rx="2"><title>2026-04-29 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="333" y="125" width="10" height="10" rx="2"><title>2026-04-30 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="333" y="138" width="10" height="10" rx="2"><title>2026-05-01 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="333" y="151" width="10" height="10" rx="2"><title>2026-05-02 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="73" width="10" height="10" rx="2"><title>2026-05-03 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="86" width="10" height="10" rx="2"><title>2026-05-04 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="99" width="10" height="10" rx="2"><title>2026-05-05 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="112" width="10" height="10" rx="2"><title>2026-05-06 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="125" width="10" height="10" rx="2"><title>2026-05-07 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="138" width="10" height="10" rx="2"><title>2026-05-08 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="151" width="10" height="10" rx="2"><title>2026-05-09 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="73" width="10" height="10" rx="2"><title>2026-05-10 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="86" width="10" height="10" rx="2"><title>2026-05-11 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="99" width="10" height="10" rx="2"><title>2026-05-12 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="112" width="10" height="10" rx="2"><title>2026-05-13 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="125" width="10" height="10" rx="2"><title>2026-05-14 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="138" width="10" height="10" rx="2"><title>2026-05-15 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="151" width="10" height="10" rx="2"><title>2026-05-16 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="372" y="73" width="10" height="10" rx="2"><title>2026-05-17 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="372" y="86" width="10" height="10" rx="2"><title>2026-05-18 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="372" y="99" width="10" height="10" rx="2"><title>2026-05-19 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="372" y="112" width="10" height="10" rx="2"><title>2026-05-20 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="372" y="125" width="10" height="10" rx="2"><title>2026-05-21 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="372" y="138" width="10" height="10" rx="2"><title>2026-05-22 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="372" y="151" width="10" height="10" rx="2"><title>2026-05-23 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="385" y="73" width="10" height="10" rx="2"><title>2026-05-24 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="385" y="86" width="10" height="10" rx="2"><title>2026-05-25 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="385" y="99" width="10" height="10" rx="2"><title>2026-05-26 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="385" y="112" width="10" height="10" rx="2"><title>2026-05-27 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="385" y="125" width="10" height="10" rx="2"><title>2026-05-28 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="385" y="138" width="10" height="10" rx="2"><title>2026-05-29 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="385" y="151" width="10" height="10" rx="2"><title>2026-05-30 · 0 indexed public contributions</title></rect>
+<text class="copy meta" x="14" y="95">Mon</text>
+<text class="copy meta" x="14" y="121">Wed</text>
+<text class="copy meta" x="14" y="147">Fri</text>
+<text class="copy meta" x="47" y="188">Jun</text>
+<rect class="n0" x="47" y="195" width="10" height="10" rx="2"><title>2026-05-31 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="47" y="208" width="10" height="10" rx="2"><title>2026-06-01 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="47" y="221" width="10" height="10" rx="2"><title>2026-06-02 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="47" y="234" width="10" height="10" rx="2"><title>2026-06-03 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="47" y="247" width="10" height="10" rx="2"><title>2026-06-04 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="47" y="260" width="10" height="10" rx="2"><title>2026-06-05 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="47" y="273" width="10" height="10" rx="2"><title>2026-06-06 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="195" width="10" height="10" rx="2"><title>2026-06-07 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="208" width="10" height="10" rx="2"><title>2026-06-08 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="221" width="10" height="10" rx="2"><title>2026-06-09 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="234" width="10" height="10" rx="2"><title>2026-06-10 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="247" width="10" height="10" rx="2"><title>2026-06-11 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="260" width="10" height="10" rx="2"><title>2026-06-12 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="60" y="273" width="10" height="10" rx="2"><title>2026-06-13 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="195" width="10" height="10" rx="2"><title>2026-06-14 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="208" width="10" height="10" rx="2"><title>2026-06-15 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="221" width="10" height="10" rx="2"><title>2026-06-16 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="234" width="10" height="10" rx="2"><title>2026-06-17 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="247" width="10" height="10" rx="2"><title>2026-06-18 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="260" width="10" height="10" rx="2"><title>2026-06-19 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="73" y="273" width="10" height="10" rx="2"><title>2026-06-20 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="195" width="10" height="10" rx="2"><title>2026-06-21 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="208" width="10" height="10" rx="2"><title>2026-06-22 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="221" width="10" height="10" rx="2"><title>2026-06-23 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="234" width="10" height="10" rx="2"><title>2026-06-24 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="247" width="10" height="10" rx="2"><title>2026-06-25 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="260" width="10" height="10" rx="2"><title>2026-06-26 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="86" y="273" width="10" height="10" rx="2"><title>2026-06-27 · 0 indexed public contributions</title></rect>
+<text class="copy meta" x="99" y="188">Jul</text>
+<rect class="n0" x="99" y="195" width="10" height="10" rx="2"><title>2026-06-28 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="208" width="10" height="10" rx="2"><title>2026-06-29 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="221" width="10" height="10" rx="2"><title>2026-06-30 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="234" width="10" height="10" rx="2"><title>2026-07-01 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="247" width="10" height="10" rx="2"><title>2026-07-02 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="260" width="10" height="10" rx="2"><title>2026-07-03 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="99" y="273" width="10" height="10" rx="2"><title>2026-07-04 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="195" width="10" height="10" rx="2"><title>2026-07-05 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="208" width="10" height="10" rx="2"><title>2026-07-06 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="221" width="10" height="10" rx="2"><title>2026-07-07 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="234" width="10" height="10" rx="2"><title>2026-07-08 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="247" width="10" height="10" rx="2"><title>2026-07-09 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="260" width="10" height="10" rx="2"><title>2026-07-10 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="112" y="273" width="10" height="10" rx="2"><title>2026-07-11 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="195" width="10" height="10" rx="2"><title>2026-07-12 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="208" width="10" height="10" rx="2"><title>2026-07-13 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="221" width="10" height="10" rx="2"><title>2026-07-14 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="234" width="10" height="10" rx="2"><title>2026-07-15 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="247" width="10" height="10" rx="2"><title>2026-07-16 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="260" width="10" height="10" rx="2"><title>2026-07-17 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="125" y="273" width="10" height="10" rx="2"><title>2026-07-18 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="195" width="10" height="10" rx="2"><title>2026-07-19 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="208" width="10" height="10" rx="2"><title>2026-07-20 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="221" width="10" height="10" rx="2"><title>2026-07-21 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="234" width="10" height="10" rx="2"><title>2026-07-22 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="247" width="10" height="10" rx="2"><title>2026-07-23 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="260" width="10" height="10" rx="2"><title>2026-07-24 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="138" y="273" width="10" height="10" rx="2"><title>2026-07-25 · 0 indexed public contributions</title></rect>
+<text class="copy meta" x="151" y="188">Aug</text>
+<rect class="n0" x="151" y="195" width="10" height="10" rx="2"><title>2026-07-26 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="208" width="10" height="10" rx="2"><title>2026-07-27 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="221" width="10" height="10" rx="2"><title>2026-07-28 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="234" width="10" height="10" rx="2"><title>2026-07-29 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="247" width="10" height="10" rx="2"><title>2026-07-30 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="260" width="10" height="10" rx="2"><title>2026-07-31 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="151" y="273" width="10" height="10" rx="2"><title>2026-08-01 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="195" width="10" height="10" rx="2"><title>2026-08-02 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="208" width="10" height="10" rx="2"><title>2026-08-03 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="221" width="10" height="10" rx="2"><title>2026-08-04 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="234" width="10" height="10" rx="2"><title>2026-08-05 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="247" width="10" height="10" rx="2"><title>2026-08-06 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="260" width="10" height="10" rx="2"><title>2026-08-07 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="164" y="273" width="10" height="10" rx="2"><title>2026-08-08 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="195" width="10" height="10" rx="2"><title>2026-08-09 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="208" width="10" height="10" rx="2"><title>2026-08-10 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="221" width="10" height="10" rx="2"><title>2026-08-11 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="234" width="10" height="10" rx="2"><title>2026-08-12 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="247" width="10" height="10" rx="2"><title>2026-08-13 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="260" width="10" height="10" rx="2"><title>2026-08-14 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="177" y="273" width="10" height="10" rx="2"><title>2026-08-15 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="195" width="10" height="10" rx="2"><title>2026-08-16 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="208" width="10" height="10" rx="2"><title>2026-08-17 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="221" width="10" height="10" rx="2"><title>2026-08-18 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="234" width="10" height="10" rx="2"><title>2026-08-19 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="247" width="10" height="10" rx="2"><title>2026-08-20 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="260" width="10" height="10" rx="2"><title>2026-08-21 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="190" y="273" width="10" height="10" rx="2"><title>2026-08-22 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="195" width="10" height="10" rx="2"><title>2026-08-23 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="208" width="10" height="10" rx="2"><title>2026-08-24 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="221" width="10" height="10" rx="2"><title>2026-08-25 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="234" width="10" height="10" rx="2"><title>2026-08-26 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="247" width="10" height="10" rx="2"><title>2026-08-27 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="260" width="10" height="10" rx="2"><title>2026-08-28 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="203" y="273" width="10" height="10" rx="2"><title>2026-08-29 · 0 indexed public contributions</title></rect>
+<text class="copy meta" x="216" y="188">Sep</text>
+<rect class="n0" x="216" y="195" width="10" height="10" rx="2"><title>2026-08-30 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="208" width="10" height="10" rx="2"><title>2026-08-31 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="221" width="10" height="10" rx="2"><title>2026-09-01 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="234" width="10" height="10" rx="2"><title>2026-09-02 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="247" width="10" height="10" rx="2"><title>2026-09-03 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="260" width="10" height="10" rx="2"><title>2026-09-04 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="216" y="273" width="10" height="10" rx="2"><title>2026-09-05 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="195" width="10" height="10" rx="2"><title>2026-09-06 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="208" width="10" height="10" rx="2"><title>2026-09-07 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="221" width="10" height="10" rx="2"><title>2026-09-08 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="234" width="10" height="10" rx="2"><title>2026-09-09 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="247" width="10" height="10" rx="2"><title>2026-09-10 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="260" width="10" height="10" rx="2"><title>2026-09-11 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="229" y="273" width="10" height="10" rx="2"><title>2026-09-12 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="195" width="10" height="10" rx="2"><title>2026-09-13 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="208" width="10" height="10" rx="2"><title>2026-09-14 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="221" width="10" height="10" rx="2"><title>2026-09-15 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="234" width="10" height="10" rx="2"><title>2026-09-16 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="247" width="10" height="10" rx="2"><title>2026-09-17 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="260" width="10" height="10" rx="2"><title>2026-09-18 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="242" y="273" width="10" height="10" rx="2"><title>2026-09-19 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="195" width="10" height="10" rx="2"><title>2026-09-20 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="208" width="10" height="10" rx="2"><title>2026-09-21 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="221" width="10" height="10" rx="2"><title>2026-09-22 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="234" width="10" height="10" rx="2"><title>2026-09-23 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="247" width="10" height="10" rx="2"><title>2026-09-24 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="260" width="10" height="10" rx="2"><title>2026-09-25 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="255" y="273" width="10" height="10" rx="2"><title>2026-09-26 · 0 indexed public contributions</title></rect>
+<text class="copy meta" x="268" y="188">Oct</text>
+<rect class="n0" x="268" y="195" width="10" height="10" rx="2"><title>2026-09-27 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="208" width="10" height="10" rx="2"><title>2026-09-28 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="221" width="10" height="10" rx="2"><title>2026-09-29 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="234" width="10" height="10" rx="2"><title>2026-09-30 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="247" width="10" height="10" rx="2"><title>2026-10-01 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="260" width="10" height="10" rx="2"><title>2026-10-02 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="268" y="273" width="10" height="10" rx="2"><title>2026-10-03 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="195" width="10" height="10" rx="2"><title>2026-10-04 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="208" width="10" height="10" rx="2"><title>2026-10-05 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="221" width="10" height="10" rx="2"><title>2026-10-06 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="234" width="10" height="10" rx="2"><title>2026-10-07 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="247" width="10" height="10" rx="2"><title>2026-10-08 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="260" width="10" height="10" rx="2"><title>2026-10-09 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="281" y="273" width="10" height="10" rx="2"><title>2026-10-10 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="195" width="10" height="10" rx="2"><title>2026-10-11 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="208" width="10" height="10" rx="2"><title>2026-10-12 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="221" width="10" height="10" rx="2"><title>2026-10-13 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="234" width="10" height="10" rx="2"><title>2026-10-14 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="247" width="10" height="10" rx="2"><title>2026-10-15 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="260" width="10" height="10" rx="2"><title>2026-10-16 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="294" y="273" width="10" height="10" rx="2"><title>2026-10-17 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="195" width="10" height="10" rx="2"><title>2026-10-18 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="208" width="10" height="10" rx="2"><title>2026-10-19 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="221" width="10" height="10" rx="2"><title>2026-10-20 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="234" width="10" height="10" rx="2"><title>2026-10-21 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="247" width="10" height="10" rx="2"><title>2026-10-22 · 0 indexed public contributions</title></rect>
+<rect class="n4" x="307" y="260" width="10" height="10" rx="2"><title>2026-10-23 · 11 indexed public contributions</title></rect>
+<rect class="n0" x="307" y="273" width="10" height="10" rx="2"><title>2026-10-24 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="195" width="10" height="10" rx="2"><title>2026-10-25 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="208" width="10" height="10" rx="2"><title>2026-10-26 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="221" width="10" height="10" rx="2"><title>2026-10-27 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="234" width="10" height="10" rx="2"><title>2026-10-28 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="247" width="10" height="10" rx="2"><title>2026-10-29 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="260" width="10" height="10" rx="2"><title>2026-10-30 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="320" y="273" width="10" height="10" rx="2"><title>2026-10-31 · 0 indexed public contributions</title></rect>
+<text class="copy meta" x="333" y="188">Nov</text>
+<rect class="n0" x="333" y="195" width="10" height="10" rx="2"><title>2026-11-01 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="333" y="208" width="10" height="10" rx="2"><title>2026-11-02 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="333" y="221" width="10" height="10" rx="2"><title>2026-11-03 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="333" y="234" width="10" height="10" rx="2"><title>2026-11-04 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="333" y="247" width="10" height="10" rx="2"><title>2026-11-05 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="333" y="260" width="10" height="10" rx="2"><title>2026-11-06 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="333" y="273" width="10" height="10" rx="2"><title>2026-11-07 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="195" width="10" height="10" rx="2"><title>2026-11-08 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="208" width="10" height="10" rx="2"><title>2026-11-09 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="221" width="10" height="10" rx="2"><title>2026-11-10 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="234" width="10" height="10" rx="2"><title>2026-11-11 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="247" width="10" height="10" rx="2"><title>2026-11-12 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="260" width="10" height="10" rx="2"><title>2026-11-13 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="346" y="273" width="10" height="10" rx="2"><title>2026-11-14 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="195" width="10" height="10" rx="2"><title>2026-11-15 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="208" width="10" height="10" rx="2"><title>2026-11-16 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="221" width="10" height="10" rx="2"><title>2026-11-17 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="234" width="10" height="10" rx="2"><title>2026-11-18 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="247" width="10" height="10" rx="2"><title>2026-11-19 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="260" width="10" height="10" rx="2"><title>2026-11-20 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="359" y="273" width="10" height="10" rx="2"><title>2026-11-21 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="372" y="195" width="10" height="10" rx="2"><title>2026-11-22 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="372" y="208" width="10" height="10" rx="2"><title>2026-11-23 · 0 indexed public contributions</title></rect>
+<rect class="n0" x="372" y="221" width="10" height="10" rx="2"><title>2026-11-24 · 0 indexed public contributions</title></rect>
+<rect class="n2" x="372" y="234" width="10" height="10" rx="2"><title>2026-11-25 · 2 indexed public contributions</title></rect>
+<text class="copy meta" x="14" y="217">Mon</text>
+<text class="copy meta" x="14" y="243">Wed</text>
+<text class="copy meta" x="14" y="269">Fri</text>
+<text class="copy meta" x="272" y="302">Less</text>
+<rect class="n0" x="301" y="294" width="10" height="10" rx="2"/>
+<rect class="n1" x="314" y="294" width="10" height="10" rx="2"/>
+<rect class="n2" x="327" y="294" width="10" height="10" rx="2"/>
+<rect class="n3" x="340" y="294" width="10" height="10" rx="2"/>
+<rect class="n4" x="353" y="294" width="10" height="10" rx="2"/>
+<text class="copy meta" x="373" y="302">More</text>
+</svg>
